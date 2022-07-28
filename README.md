@@ -1,5 +1,5 @@
 # Noise-and-Generative-Art
-Code repository for [Noise and Generative Art](https://youtu.be/CHZtK-keEvU).
+Code repository for [Noise and Generative Art].
 
 ## Usage
 To run this code, Processing is required. You can download it [here](https://processing.org/download/).
